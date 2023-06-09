@@ -1,0 +1,7 @@
+{
+  "dotenv.enableAutocloaking": true,
+  "cSpell.words": [
+    "transacao",
+    "tsbuildinfo"
+  ]
+}
